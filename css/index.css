@@ -1,0 +1,40 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+.bg-1 {
+	background-color: #1abc9c;
+	color: #fff;
+	padding: 70px 0;
+	text-align: center;
+}
+.bg-2 {
+	background-color: #474e5d;
+	color: #fff;
+	padding: 70px 0;
+	text-align: center;
+}
+.bg-3 {
+	background-color: #ffffff;
+	color: #555;
+	padding: 70px 0;
+	text-align: center;
+}
+h3 {
+	font-size: 2em;
+	font-family: sans-serif;
+}
+p {
+	font-family: sans-serif;
+}
+img {
+	display: block;
+	border-radius: 50%;
+	width: 320px;
+	margin: auto;
+}
+.bg-2 button {
+	padding: 15px;
+	border-radius: 10px;
+	border: 0;
+}
